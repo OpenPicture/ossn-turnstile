@@ -17,3 +17,6 @@ The Site Key and the Secret Key. To have those, follow these steps.
 
 ## Download Link (Github)
 [Download here](https://github.com/thedoggybrad/ossn-turnstile/releases/download/1.0/turnstile.zip)
+
+## Warning
+Warning: CloudFlare Turnstile is currently in BETA (Referred to as v0)
