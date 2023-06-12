@@ -10,7 +10,7 @@ The Site Key and the Secret Key. To have those, follow these steps.
 1.) You need to integrate your site with CloudFlare<br>
 2.) If you already did the step 1, just go to left menu and click Turnstile.<br>
 3.) Finally, create that new one.<br>
-4.) Add your domain<br>
+4.) Add your domain and select the mode (Managed,  Non-Interactive, Invisible)<br>
 5.) Create that and copy your keys.<br>
 6.) Go to your /administrator page and click the Configure in the dropdown menu.<br>
 7.) Select turnstile and copy-paste the keys.
