@@ -14,3 +14,6 @@ The Site Key and the Secret Key. To have those, follow these steps.
 5.) Create that and copy your keys.<br>
 6.) Go to your /administrator page and click the Configure in the dropdown menu.<br>
 7.) Select turnstile and copy-paste the keys.
+
+## Download Link (Github)
+[Download here](https://github.com/thedoggybrad/ossn-turnstile/releases/download/1.0/turnstile.zip)
