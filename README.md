@@ -1,5 +1,11 @@
 # ossn-turnstile
 This component adds a CloudFlare turnstile as a Captcha replacement to your OSSN site's signup and reset password pages. This is basically my edited hCaptcha component that is based on the earlier Google ReCaptcha v2 component.
+<br>
+<br>
+<div align="center">
+<a href="https://github.com/thedoggybrad/ossn-turnstile/releases/download/1.0/turnstile.zip">
+         <img src="https://raw.githubusercontent.com/thedoggybrad/thedoggybrad/main/download.png" width="200">
+    </a></div>
 
 ## What inspires me to do this?
 The OSSN Community website inspires me to do this component. When I will sign-in to the OSSN Community website, the CloudFlare Anti-DDOS with Turnstile checks my traffic.
@@ -14,9 +20,6 @@ The Site Key and the Secret Key. To have those, follow these steps.
 5.) Create that and copy your keys.<br>
 6.) Go to your /administrator page and click the Configure in the dropdown menu.<br>
 7.) Select turnstile and copy-paste the keys.
-
-## Download Link (Github)
-[Download here](https://github.com/thedoggybrad/ossn-turnstile/releases/download/1.0/turnstile.zip)
 
 ## Warning
 Warning: CloudFlare Turnstile is currently in BETA (Referred to as v0)
